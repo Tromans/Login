@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\obj\Debug\LogInFourm.Form1.resources
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\obj\Debug\LogInFourm.Resources.resources
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\obj\Debug\LogInFourm.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\bin\Debug\LogInFourm.exe.config
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\bin\Debug\LogInFourm.exe
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\bin\Debug\LogInFourm.pdb
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\bin\Debug\LogInFourm.xml
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\obj\Debug\LogInFourm.exe
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\obj\Debug\LogInFourm.xml
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\obj\Debug\LogInFourm.pdb
+C:\Users\CCLC\Documents\Tyler\LogInFourm\LogInFourm\obj\Debug\LogInFourm.vbprojResolveAssemblyReference.cache
